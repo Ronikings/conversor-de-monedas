@@ -13,6 +13,13 @@ pero se puede introducir sin problema cualquier código de la respectiva moneda 
 ![conversordemonedas1](https://github.com/Ronikings/conversor-de-monedas/assets/158636841/470c8a50-3c76-4535-8b0f-096f87003c29)
 
 
+![conversordemonedas2](https://github.com/Ronikings/conversor-de-monedas/assets/158636841/f55e5b8a-bb42-4a34-a8a0-afeb101a32ed)
+
+
+![conversordemonedas3](https://github.com/Ronikings/conversor-de-monedas/assets/158636841/3f7a5700-d71d-498d-aef4-dab81ee6df99)
+
+
+
 
 <h4 align="left">Tecnologias utilizadas</h4>
 <ul>*JDK 17</ul>
