@@ -15,11 +15,11 @@ La aplicación va guiando al usuario a través de un menú, la información que 
 ![conversordemonedas2](https://github.com/Ronikings/conversor-de-monedas/assets/158636841/f55e5b8a-bb42-4a34-a8a0-afeb101a32ed)
 
 
-![Al salir el sistema imprime en la consola el historial de conversiones y también entrega un registro en formato json](https://github.com/Ronikings/conversor-de-monedas/assets/158636841/3f7a5700-d71d-498d-aef4-dab81ee6df99)
-
+![Al escribir para salir de la app ](https://github.com/Ronikings/conversor-de-monedas/assets/158636841/3f7a5700-d71d-498d-aef4-dab81ee6df99)
+Al salir, el sistema imprime en la consola el historial de conversiones y también entrega un registro en formato json
 
 
 
 <h4 align="left">Tecnologias utilizadas</h4>
 <ul>*JDK 17</ul>
-<ul>*Intellij IDEA Community Edition 2023.</ul>
+<ul>*Intellij IDEA Community Edition 2023.3.6</ul>
